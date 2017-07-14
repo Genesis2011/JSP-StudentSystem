@@ -1,3 +1,4 @@
 activeuserprofiles=Genesis;Team
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=Outlier
+useridperkey=Genesis.Local\=Outlier;
