@@ -15,7 +15,7 @@ StudentSystem文件夹是"学生管理系统"工程
 
 环境：JDK 8
 
-IDE：Ecplise
+IDE：Eclipse
 
 编码：UTF-8
 
